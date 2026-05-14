@@ -1,12 +1,8 @@
-import week_two.task1.PersonApp;
-import week_two.task2.RectangleApp;
+import week_4.task_1.AuthorBookApp;
 
 
 public class Main {
     public static void main(String[] args) {
-//        new RootCalculator();
-//        new PersonApp();
-//        new RectangleApp();
-        new RectangleApp();
+        new AuthorBookApp();
     }
 }

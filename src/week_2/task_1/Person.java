@@ -1,4 +1,4 @@
-package week_two.task1;
+package week_2.task_1;
 
 public class Person {
     private String name;

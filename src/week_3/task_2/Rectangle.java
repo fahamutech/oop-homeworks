@@ -1,4 +1,4 @@
-package week_two.task2;
+package week_3.task_2;
 
 public class Rectangle {
     private String colour;
